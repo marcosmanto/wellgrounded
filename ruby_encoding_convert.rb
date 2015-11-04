@@ -1,4 +1,4 @@
-﻿uuml_utf8 = "\u00FC"
+﻿uuml_utf8 = "\xC3\xAD" # caracter í
 
 puts  uuml_utf8
 puts  uuml_utf8.encoding

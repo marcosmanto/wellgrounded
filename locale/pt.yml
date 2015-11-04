@@ -1,0 +1,12 @@
+pt:
+  ask:
+    name: "Qual é seu nome?"
+    location: "Onde você vive?"
+    children: "Quantos filhos você tem?"
+    thanks: "Obrigado!"
+  result:
+    lives_in: "%{name} lives in %{place}, and has"
+    children:
+      zero: "no children."
+      one: "a single child."
+      other: "%{count} children."    
